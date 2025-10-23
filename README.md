@@ -1,4 +1,5 @@
 🌍 Energiewende-Helfer — The German Green Energy Transition Assistant
+
 🎯 Aim
 
 Help households make smarter, cost-saving energy decisions by forecasting solar generation and advising optimal battery actions.
